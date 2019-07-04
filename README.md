@@ -1,2 +1,3 @@
 # GITDemo
 A project to have hands on and show the Demo for GIT
+Start with some work and keep going....
